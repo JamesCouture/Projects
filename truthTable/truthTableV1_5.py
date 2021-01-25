@@ -131,7 +131,7 @@ def findParentheses(string,paraNum,input_dic):
                     var = 'variableNumber' + str(j)
                     exec('input_dic[var]= ["null",result]')
                     string = string[0:curo] + var + string[nexto + 1:]
-                #break
+                break
 
             elif string[i] =="(":
                 curo = i
