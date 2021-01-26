@@ -11,4 +11,4 @@ Examples of its usage are also downloaded beside the project.
 ----
 Challenges:
 -Keep a modular code allowing for quick updates for new propositional logic addition.
--Store an unpredetermined amount of operations.
+-Allow for an unpredetermined amount of operations.
