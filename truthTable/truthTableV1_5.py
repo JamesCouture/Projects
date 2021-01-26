@@ -5,7 +5,7 @@ try:
     importBool = True
     
 except ImportError:
-    print("Could not find pandas or openpyxl, please download them using pip if you want to export to excel using.")
+    print("Could not find pandas or openpyxl, please download them using pip if you want to export to excel.")
     importBool = False
 
 
