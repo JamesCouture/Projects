@@ -6,3 +6,9 @@ This is a personal project. The objective was to create a script that could comp
 -If there are any negation operation or the user wants to have more variables considered in a logic, the use of square brakets are necessary. Ex:(a and b)[a b c d]
 
 Examples of its usage are also downloaded beside the project.
+
+
+----
+Challenges:
+-Keep a modular code allowing for quick updates for new propositional logic addition.
+-Store an unpredetermined amount of operations.
